@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 Github has given us these handy-dandy starter questions so I'll make use of them!
 
-- 🔭 I’m currently working on developing my own website, the Web Development course on Codeacademy and a UX/UI course over at Love Circular. 
+- 🔭 I’m currently working on developing my own website, the Web Development course on Codeacademy and a UX/UI course over at Love Circular also trying to build tetris. 
 - 🌱 I’m currently learning React, *actually* using git commands, how to build a design case study 
 - 👯 I’m looking to collaborate on honestly anything, I'm looking to push myself.
 - 🤔 I’m looking for help with contributing to opensource projects
