@@ -15,3 +15,7 @@ Github has given us these handy-dandy starter questions so I'll make use of them
 - 😄 Pronouns: they/them 
 - ⚡ Fun fact: I'm currently attempting to make my own soda with something called a ginger bug :O I'm excited!
 
+[![Shakira's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhianeKobar&theme=radical)](https://github.com/rhianeKobar/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhianeKobar&theme=radical)](https://github.com/rhianeKobar/github-readme-stats)
