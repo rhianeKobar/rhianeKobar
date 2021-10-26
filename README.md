@@ -25,7 +25,7 @@ look 😆), I love fermenting and growing things, playing mario kart (add me on 
 <h2 id="Skillset">Skillset</h2>
 
 Like many Maker's Alumni, I consider myself language agnostic and I'm eager to work with 
-many tools and languages, however the following are what I'm most familiar with:
+new tools and languages, however the following are what I'm most familiar with for now:
 
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) 
