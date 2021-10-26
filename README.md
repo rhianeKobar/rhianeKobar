@@ -1,16 +1,9 @@
-<style>
-	nav{ 
-		text-align: center;
-	}
-	nav h2{
-		display: inline;
-	}
-</style>
+
 ![Welcome I'm Shakira and I'm waving at you](/Resources/welcomeSign.png)
 
-<nav>
-	<h2><a href="#Skillset">Skillset</a></h2> | <h2><a href="#Projects">Porfolio</a></h2> | <h2><a href='#Github-Stats'>Github Stats</a></h2>
-</nav>
+
+	[Skillset](#Skillset) | [Portfolio](#Porfolio) | [GitHub Stats](#Github-Stats)
+
 
 <h2 id="About">About</h2> 
 
