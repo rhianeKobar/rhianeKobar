@@ -5,7 +5,7 @@
 [Skillset](#Skillset) | [Portfolio](#Porfolio) | [GitHub Stats](#Github-stats)
 
 
-# About
+## About
 
 I'm a Full Stack Developer, UX Designer and I'm just finishing up the Maker's Academy bootcamp. It's been
 and intense experience yet incredibly rewarding and fulfilling. I'm super excited to work on/contribute to 
