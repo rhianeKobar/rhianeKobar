@@ -8,7 +8,7 @@
 ## About
 
 I'm a Full Stack Developer, UX Designer and I'm just finishing up the Maker's Academy bootcamp. It's been
-and intense experience yet incredibly rewarding and fulfilling. I'm super excited to work on/contribute to 
+an intense experience yet incredibly rewarding and fulfilling. I'm super excited to work on/contribute to 
 new/existing projects that help me strengthen and expand my skillset. 
 
 Put me to work on anything (*ethical*). Especially interested in open source, sustainability, accessibility, AI, communication,
