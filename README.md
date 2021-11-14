@@ -14,9 +14,9 @@
 
 <h2 id="About">About</h2> 
 
-I'm a Full Stack Developer, UX Designer and I'm just finishing up the Maker's Academy bootcamp. It's been
-and intense experience yet incredibly rewarding and fulfilling. I'm super excited to work on/contribute to 
-new/existing projects that help me strengthen and expand my skillset. 
+I'm a Frontend (almost fullstack) developer, UX Designer and I've just finished the Maker's Academy bootcamp. It's been
+an intense experience yet incredibly rewarding and fulfilling. I'm super excited to work on/contribute to 
+new/existing projects that help me strengthen and expand my skillset and meet other enthusiastic tech people. 
 
 Put me to work on anything (*ethical*). Especially interested in open source, sustainability, accessibility, AI, communication,
 data analysis, gaming, security, mobile, transport and education.
@@ -35,33 +35,42 @@ Like many Maker's Alumni, I consider myself language agnostic and I'm eager to w
 many tools and languages, however the following are what I'm most familiar with:
 
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) 
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![Javascript](https://img.icons8.com/color/48/000000/javascript--v2.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![Ruby](https://img.icons8.com/color/48/000000/ruby-programming-language.png)
-![Rails](https://img.icons8.com/windows/64/000000/ruby-on-rails.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5") 
+![CSS3](https://img.icons8.com/color/48/000000/css3.png "CSS3")
+![SASS](https://img.icons8.com/color/48/000000/sass.png "SASS")
+![Javascript](https://img.icons8.com/color/48/000000/javascript--v2.png "Javascript")
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png "NodeJS")
+![Ruby](https://img.icons8.com/color/48/000000/ruby-programming-language.png "Ruby")
+![Rails](https://img.icons8.com/windows/64/000000/ruby-on-rails.png "Rails")
 
 
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![command line](https://img.icons8.com/color/48/000000/command-line.png)
-![Figma](https://img.icons8.com/color/48/000000/figma--v2.png)
-![Postgres](https://img.icons8.com/color/48/000000/postgreesql.png)
+![Git/version control](https://img.icons8.com/color/48/000000/git.png "Git/version control")
+![command line](https://img.icons8.com/color/48/000000/command-line.png "Command Line")
+![Figma](https://img.icons8.com/color/48/000000/figma--v2.png "Figma")
+![Postgres](https://img.icons8.com/color/48/000000/postgreesql.png "Postgres")
 
 
 
 <h2 id="Projects">Porfolio</h2>
 
+### [Thermostat](https://rhianekobar.github.io/thermostat/)
+
+- A thermostat app that allows you to check the temperature in your chosen city and adjust the thermostat accordingly.
+- Designed with Figma.	
+- Coded in JS and tested using Jasmine.
+- Calls on the [Open Weather API](https://openweathermap.org/api).
+
 ### [Appunti](https://github.com/drkitsch/appunti)
 
+- Team Project
 - A responsive note taking app that stores your notes on local storage and feels like a noticeboard.
 - Designed with Figma.	
-- Tested using a self-built testing framework.
+- Coded in JS and tested using a self-built testing framework.
 
 ### [QTIPoC phrases typing game](https://rhianekobar.github.io/QTIPoC-phrases-typing-game/)
 
 - An educational typing game that helps you learn phrases related to the QTIPoc(Queer, Trans, Intersex, People of Colour) community and also give your typing speed and average typing speed of all the phrases you've typed. 
-- Designed with Figma.	
+- Designed with Figma, coded in JS.	
 - Inspired by being black and queer.
 
 
