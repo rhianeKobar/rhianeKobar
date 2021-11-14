@@ -1,18 +1,11 @@
-<style>
-	nav{ 
-		text-align: center;
-	}
-	nav h2{
-		display: inline;
-	}
-</style>
+
 ![Welcome I'm Shakira and I'm waving at you](/Resources/welcomeSign.png)
 
-<nav>
-	<h2><a href="#Skillset">Skillset</a></h2> | <h2><a href="#Projects">Porfolio</a></h2> | <h2><a href='#Github-Stats'>Github Stats</a></h2>
-</nav>
 
-<h2 id="About">About</h2> 
+[Skillset](#Skillset) | [Portfolio](#Porfolio) | [GitHub Stats](#Github-stats)
+
+
+## About
 
 I'm a Frontend (almost fullstack) developer, UX Designer and I've just finished the Maker's Academy bootcamp. It's been
 an intense experience yet incredibly rewarding and fulfilling. I'm super excited to work on/contribute to 
@@ -27,12 +20,12 @@ celebrate the victories and lean on or be support for. However, I can work by my
 I'd be really excited to work with a team that recognises the importance of diversity and inclusion, preferably with the option to work remotely. 
 
 Outside of coding, I play bass in a band called Petit Danger (we're not even on bandcamp yet so don't 
-look :haha), I love fermenting and growing things, playing mario kart (add me on switch) and DIY. 
+look 😆), I love fermenting and growing things, playing mario kart (add me on switch) and DIY. 
 
 <h2 id="Skillset">Skillset</h2>
 
 Like many Maker's Alumni, I consider myself language agnostic and I'm eager to work with 
-many tools and languages, however the following are what I'm most familiar with:
+new tools and languages, however the following are what I'm most familiar with for now:
 
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5") 
@@ -51,7 +44,7 @@ many tools and languages, however the following are what I'm most familiar with:
 
 
 
-<h2 id="Projects">Porfolio</h2>
+<h2 id="Porfolio">Porfolio</h2>
 
 ### [Thermostat](https://rhianekobar.github.io/thermostat/)
 
