@@ -58,10 +58,10 @@ Knowing the stack you're working with is important but having soft skills is equ
 
  Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- 
- **KickAbout**            | A webapp to make football more accessible to everyone outside of a traditional male audience. Creating community through sport.  | Ruby on rails, Stimulus, Sass, Postgres, RSpec, Figma 
- **IOBook** | An social media platform for developers! | Ruby on rails, CSS, Postgres, RSpec. Figma             
- **QTIPoC phrases typing game** | An educational typing game that helps you learn phrases related to the QTIPoc(Queer, Trans, Intersex, People of Colour) community and also give your typing speed and average typing speed of all the phrases you've typed. Inspired by being black and queer.| JavaScript, HTML, CSS, Figma            
- **Thermostat** | A thermostat app that allows you to check the temperature in your chosen city using the Open Weather API and adjust the thermostat accordingly.| JavaScript, HTML, CSS, Figma, [Open Weather API](https://openweathermap.org/api)   
+ [**KickAbout**](https://github.com/lildann/kickabout)            | A webapp to make football more accessible to everyone outside of a traditional male audience. Creating community through sport.  | Ruby on rails, Stimulus, Sass, Postgres, RSpec, Figma 
+ [**IOBook**](https://github.com/tomal02/iobook) | An social media platform for developers! | Ruby on rails, CSS, Postgres, RSpec. Figma             
+ [**QTIPoC phrases typing game**](https://rhianekobar.github.io/QTIPoC-phrases-typing-game/) | An educational typing game that helps you learn phrases related to the QTIPoc(Queer, Trans, Intersex, People of Colour) community and also give your typing speed and average typing speed of all the phrases you've typed. Inspired by being black and queer.| JavaScript, HTML, CSS, Figma            
+ [**Thermostat**](https://rhianekobar.github.io/thermostat/) | A thermostat app that allows you to check the temperature in your chosen city using the Open Weather API and adjust the thermostat accordingly.| JavaScript, HTML, CSS, Figma, [Open Weather API](https://openweathermap.org/api)   
 
 
 <h2 id="Work">Work Experience</h2>
@@ -71,7 +71,7 @@ _Laptop Engineer_
 
 - Battery analysis
 - Software troubleshooting, installation and maintenance
-- Hardward troubleshooting, installation and maintenance
+- Hardware troubleshooting, installation and maintenance
 - Drive cloning
 - Safe data disposal
 
